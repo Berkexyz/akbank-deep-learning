@@ -31,3 +31,5 @@ This project aims to develop a deep learning model using a large image dataset. 
 ### Conclusion
 
 This project demonstrates how to build, train, and evaluate a deep learning model for image classification tasks. The model is capable of predicting which class the images belong to with high accuracy.
+
+Kaggle link:https://www.kaggle.com/code/berkeee/a-large-scale-fish-dataset
